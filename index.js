@@ -1,1 +1,1 @@
-console.log("proyecto iniciado");
+console.log("proyecto  del gimnasio");
